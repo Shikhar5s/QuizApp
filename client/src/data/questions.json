@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "Rome", "Berlin", "Madrid"],
+    "correct": "Paris"
+  },
+  {
+    "question": "Who developed the React library?",
+    "options": ["Google", "Facebook", "Microsoft", "Twitter"],
+    "correct": "Facebook"
+  },
+  {
+    "question": "Which language runs in a web browser?",
+    "options": ["C", "Python", "JavaScript", "Java"],
+    "correct": "JavaScript"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Computer Style System",
+      "Creative Styling Syntax",
+      "Control Styling Sheet"
+    ],
+    "correct": "Cascading Style Sheets"
+  },
+  {
+    "question": "Inside which HTML element do we put JavaScript?",
+    "options": ["<javascript>", "<js>", "<scripting>", "<script>"],
+    "correct": "<script>"
+  },
+  {
+    "question": "Which company developed Java?",
+    "options": ["Sun Microsystems", "Microsoft", "IBM", "Oracle"],
+    "correct": "Sun Microsystems"
+  },
+  {
+    "question": "Which hook is used for side effects in React?",
+    "options": ["useState", "useEffect", "useReducer", "useRef"],
+    "correct": "useEffect"
+  },
+  {
+    "question": "What is the output of 2 + '2' in JavaScript?",
+    "options": ["4", "22", "NaN", "Error"],
+    "correct": "22"
+  },
+  {
+    "question": "Which symbol is used for comments in JavaScript?",
+    "options": ["//", "/* */", "#", "<!-- -->"],
+    "correct": "//"
+  },
+  {
+    "question": "Which of the following is NOT a JavaScript framework?",
+    "options": ["React", "Angular", "Vue", "Django"],
+    "correct": "Django"
+  }
+]
