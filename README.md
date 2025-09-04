@@ -8,7 +8,7 @@ Test your knowledge with multiple-choice questions, track your score, and view d
 
 ## 🚀 Live Demo
 
-Check out the live app: [https://quizapp-yourusername.vercel.app](https://quizapp-yourusername.vercel.app)
+Check out the live app: [https://quiz-app-v3zw.vercel.app/](https://quiz-app-v3zw.vercel.app/)
 
 ---
 
@@ -37,4 +37,14 @@ Check out the live app: [https://quizapp-yourusername.vercel.app](https://quizap
 ---
 
 ## 📂 Project Structure
+/src
+  /pages
+    Start.jsx         → Landing page with “Start Quiz” button.
+    Questions.jsx     → Quiz page handling question flow, timer, and scoring.
+    Result.jsx        → Displays quiz results and allows restart.
+  /data
+    questions.json    → Local JSON file containing quiz questions.
+  App.jsx             → Main app, contains routing logic.
+  index.jsx           → React DOM render entry point.
+
 
